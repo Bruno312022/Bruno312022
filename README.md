@@ -1,7 +1,18 @@
 ## 💾 Bruno Falcão
-Estudante de Engenharia da Computação, atuando com foco no desenvolvimento de software e na evolução contínua das minhas competências técnicas. Tenho uma postura analítica e orientada a resultados, buscando sempre entender a fundo cada tecnologia e aplicá-la de forma eficiente. Meu objetivo é desenvolver soluções robustas, contribuir para projetos de alto impacto e fortalecer minha atuação como desenvolvedor em ambientes desafiadores e colaborativos.
-## 🛠️ Tecnologias e Ferramentas
+**`Desenvolvedor backend`**
 
+Estudante de Engenharia da Computação, atuando com foco no desenvolvimento web e na evolução contínua das minhas competências técnicas. Tenho uma postura analítica e orientada a resultados, buscando sempre entender a fundo cada tecnologia e aplicá-la de forma eficiente. Meu objetivo é desenvolver soluções robustas, contribuir para projetos de alto impacto e fortalecer minha atuação como desenvolvedor em ambientes desafiadores e colaborativos.
+
+## 🛠️ Tecnologias e Ferramentas
+<p aling="start"></p>
+
+
+          
+          
+          
+    
+          
+          
 <!--
 **Bruno312022/Bruno312022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
