@@ -1,7 +1,7 @@
 ## 💾 Bruno Falcão
 **`Desenvolvedor backend`**
 
-Estudante de Engenharia da Computação, atuando com foco no desenvolvimento web e na evolução contínua das minhas competências técnicas. Tenho uma postura analítica e orientada a resultados, buscando sempre entender a fundo cada tecnologia e aplicá-la de forma eficiente. Meu objetivo é desenvolver soluções robustas, contribuir para projetos de alto impacto e fortalecer minha atuação como desenvolvedor em ambientes desafiadores e colaborativos.
+Estudante de Engenharia da Computação, atuando com foco em desenvolvimento de software e na evolução contínua das minhas competências técnicas. Tenho uma postura analítica e orientada a resultados, buscando sempre entender a fundo cada tecnologia e aplicá-la de forma eficiente. Meu objetivo é desenvolver soluções robustas, contribuir para projetos de alto impacto e fortalecer minha atuação como desenvolvedor em ambientes desafiadores e colaborativos.
 
 <p aling="left">
    <img src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-orange?style=for-the-badge&logoColor=white&logo=repo"/>
@@ -77,10 +77,24 @@ Estudante de Engenharia da Computação, atuando com foco no desenvolvimento web
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
 />
 
-<img
-    src="https://github-readme-stats.vercel.app/api?username=Bruno312022&show_icons=true&theme=dark"
-/>
-     
+
+### 📊 Estatísticas
+
+<p style="display: flex; gap: 10px;">
+  <img 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Bruno312022&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+  />
+
+  <img 
+    alt="Top Langs" 
+    height="200" 
+    src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=Bruno312022&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
+
+
           
           
           
