@@ -76,7 +76,11 @@ Estudante de Engenharia da Computação, atuando com foco no desenvolvimento web
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
 />
-          
+
+<img
+    src="https://github-readme-stats.vercel.app/api?username=Bruno312022&show_icons=true&theme=dark"
+/>
+     
           
           
           
