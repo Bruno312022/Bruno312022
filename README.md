@@ -80,19 +80,16 @@ Estudante de Engenharia da Computação, atuando com foco em desenvolvimento de 
 
 ### Estatísticas
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: nowrap;">
-  
-  <img 
-    src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Bruno312022&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
-    height="180"
-  />
-
-  <img 
-    src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=Bruno312022&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-    height="180"
-  />
-
-</div>
+<table>
+<tr>
+<td>
+<img height="200" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Bruno312022&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" />
+</td>
+<td>
+<img height="200" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=Bruno312022&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" />
+</td>
+</tr>
+</table>
 
 
           
