@@ -5,8 +5,6 @@ Estudante de Engenharia da Computação, atuando com foco em desenvolvimento de 
 
 <p aling="left">
    <img src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-orange?style=for-the-badge&logoColor=white&logo=repo"/>
-   <img src="https://custom-icon-badges.demolab.com/badge/-Mail-red?style=for-the-badge&logoColor=white&logo=mail"/>
-   <img src="https://custom-icon-badges.demolab.com/badge/-Linkedin-black?style=for-the-badge&logoColor=white&logo=linke"/>
 </p>
 
 ###  Tecnologias e Ferramentas
