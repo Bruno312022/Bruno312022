@@ -4,7 +4,10 @@
 Estudante de Engenharia da Computação, atuando com foco em desenvolvimento de software e na evolução contínua das minhas competências técnicas. Tenho uma postura analítica e orientada a resultados, buscando sempre entender a fundo cada tecnologia e aplicá-la de forma eficiente. Meu objetivo é desenvolver soluções robustas, contribuir para projetos de alto impacto e fortalecer minha atuação como desenvolvedor em ambientes desafiadores e colaborativos.
 
 <p aling="left">
-   <img src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-orange?style=for-the-badge&logoColor=white&logo=repo"/>
+  <a href="https://github.com/Bruno312022?tab=repositories">
+  <img src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-orange?style=for-the-badge&logoColor=white&logo=repo"/>
+</a>
+
 </p>
 
 ###  Tecnologias e Ferramentas
